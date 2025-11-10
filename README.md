@@ -1,7 +1,7 @@
 # Mohamed Youssef
 ### Computer Science Student | Technical Support Specialist | Aspiring Software Engineer
 
-About
+## About
 New York Institute of Technology Computer Science student with hands-on experience in team leadership and technical support. As an Assistant Group Leader at the Chinese-American Planning Council, I collaborated with peers to facilitate group activities that fostered teamwork and communication, while addressing technical challenges like laptop troubleshooting. 
 
 Current roles include a technical support position at NYIT's ITS Help Desk, where classroom technology checks and live troubleshooting ensured smooth instruction. Through CodePath's Technical Interview Prep, honed data structures expertise, and applied problem-solving frameworks to tackle complex challenges in collaborative settings. Dedicated to leveraging technical skills and collaborative problem-solving in dynamic environments.
