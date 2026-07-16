@@ -60,5 +60,5 @@ As a **Student Aide**, I provided first-level technical support, demonstrating s
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [https://www.linkedin.com/in/mohamedyoussefo6/](https://www.linkedin.com/in/mohamedyoussefo6/) |
-| **Email** | m.salah.v35@gmail.com |
+| **LinkedIn** | [https://www.linkedin.com/in/mohamedyoussefo6/](https://www.linkedin.com/in/mohamedsalahyoussef/) |
+| **Email** | m.salah.y35@gmail.com |
