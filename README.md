@@ -1,64 +1,74 @@
 # Mohamed Youssef
-### Computer Science Student | Technical Support Specialist | Aspiring Software Engineer
-
-## About
-New York Institute of Technology Computer Science student with hands-on experience in team leadership and technical support. As an Assistant Group Leader at the Chinese-American Planning Council, I collaborated with peers to facilitate group activities that fostered teamwork and communication, while addressing technical challenges like laptop troubleshooting. 
-
-Current roles include a technical support position at NYIT's ITS Help Desk, where classroom technology checks and live troubleshooting ensured smooth instruction. Through CodePath's Technical Interview Prep, honed data structures expertise, and applied problem-solving frameworks to tackle complex challenges in collaborative settings. Dedicated to leveraging technical skills and collaborative problem-solving in dynamic environments.
+### Software Engineer — Backend Systems & Full-Stack Development
 
 ---
 
-## 💻 Technical Skills
+## What I Do
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Programming Languages** | Java, Python, JavaScript, HTML, CSS |
-| **Core Concepts** | Object-Oriented Programming, Data Structures, Algorithms |
-| **Development Tools** | Git, GitHub, IntelliJ, Visual Studio Code |
-| **Platforms & Utilities** | ServiceNow, Google Workspace, Microsoft Office, Slack |
-| **Soft Skills** | Troubleshooting, User Support, Team Communication, Adaptability |
+I build backend systems and full-stack applications that prioritize reliability, data integrity, and scalability. My work spans real-time data processing, workflow automation, and production-grade software with rigorous testing practices. I care about systems that fail gracefully and code that holds up under real-world constraints.
 
 ---
 
-## 🚀 Featured Projects
+## Core Competencies
 
-### **1. Space Liberators**
-A 2D space shooter game engineered using **Java** and core OOP principles.
-* Integrated **real-time collision detection** and event-driven mechanics for a smooth **60 FPS** gameplay experience.
-* Designed modular input systems with responsive keyboard controls, demonstrating strong software development practices.
+**Languages**
+```
+Java · Python · JavaScript · SQL · HTML/CSS
+```
 
-### **2. Conference Table Appointment**
-A utility developed using **JavaScript** and Google Workspace for automated scheduling.
-* **Automated meeting scheduling** by transforming raw inputs from Google Sheets and Forms into centralized calendar notifications.
-* Customized calendar logic to accommodate department availability, significantly reducing scheduling conflicts.
+**Backend & Systems**
+```
+FastAPI · Flask · REST APIs · SQLAlchemy · Database Design
+System Architecture · Connection Pooling · Real-Time Data Processing
+```
 
----
+**Engineering Practices**
+```
+Unit Testing · Integration Testing · CI/CD · SDLC · Agile
+Object-Oriented Design · Git Workflow
+```
 
-## 💼 Experience Highlights
-
-### **Technical Systems & Support (New York Institute of Technology)**
-As a **Student Aide**, I provided first-level technical support, demonstrating strong systems troubleshooting skills:
-* Provided technical support to students, faculty, and staff, resolving IT issues including **account access, Wi-Fi connectivity, and classroom equipment malfunctions**.
-* Conducted weekly classroom technology check-ins, helping reduce classroom disruptions and improve learning environment reliability by **$20\%$**.
-
-### **Automation & Leadership (Melting Pint & Chinese American Planning Council)**
-* Helped automate team scheduling using **JavaScript** in Google Calendar as an **HR Associate**, streamlining coordination for $20+$ simulated employees.
-* Serve as a **Group Leader**, ensuring appropriate behavior and managing classroom activities for a group of $25$ middle school age youth.
-
----
-
-## 📚 Education & Achievements
-
-**B.Sc. Computer Science - In Progress**
-* New York Institute of Technology - Manhattan, NY
-* **Cumulative GPA: $3.74$**
-* **Honors:** Presidential Honor List, Dean's Honor List
+**Tools & Platforms**
+```
+Git · GitHub · IntelliJ IDEA · VS Code · PostgreSQL
+Docker · Linux · ServiceNow
+```
 
 ---
 
-## 🔗 Connect with Me
+## Pinned Highlights
 
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [https://www.linkedin.com/in/mohamedyoussefo6/](https://www.linkedin.com/in/mohamedsalahyoussef/) |
-| **Email** | m.salah.y35@gmail.com |
+**[ChatNYC](https://github.com/MohamedYoussef06)** — Distributed real-time trip planning backend
+Engineered a FastAPI service processing 8 concurrent real-time data sources using the Connection Scan Algorithm over MTA GTFS feeds. Built with graceful degradation, SQLAlchemy-backed persistence, and a prompt-injection-resistant LLM integration layer.
+
+**[Space Liberators](https://github.com/MohamedYoussef06/Space-Liberators)** — 2D real-time space shooter
+A Java-based game built on core OOP principles, featuring event-driven collision detection and mechanics optimized for a consistent 60 FPS. Focused on modular, maintainable architecture.
+
+**[PawPal+](https://github.com/MohamedYoussef06)** — Full-stack financial management system
+Python backend with a Streamlit frontend, shipped with 16/16 passing unit tests. Built end-to-end: schema design, business logic, and deployment.
+
+**[Conference Table Appointment](https://github.com/MohamedYoussef06/Conference-Table-Appointment)** — Scheduling automation utility
+JavaScript automation layer that transforms Google Sheets and Forms input into centralized calendar logic, reducing scheduling conflicts across departments.
+
+---
+
+## Current Focus
+
+Deepening expertise in distributed systems design and preparing for backend/infrastructure engineering roles, with an emphasis on systems that remain reliable under failure and scale.
+
+---
+
+## Education
+
+**B.S. Computer Science, Mathematics Minor**
+New York Institute of Technology — Manhattan, NY · Expected May 2028
+GPA: 3.7/4.0 · Presidential Honors List · Dean's List
+
+---
+
+## Connect
+
+```
+Email      m.salah.y35@gmail.com
+LinkedIn   linkedin.com/in/mohamedsalahyoussef
+```
