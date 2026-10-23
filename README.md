@@ -34,7 +34,6 @@
         <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white"/>
       </p>
-      <a href="https://finance-sub-agent-prediction.vercel.app">🔗 Live demo</a>
     </td>
     <td width="33%" valign="top">
       <h4><a href="https://github.com/MohamedYoussef06/Financial-AI-Advisor">💸 Buy or Wait?</a></h4>
