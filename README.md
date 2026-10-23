@@ -1,74 +1,112 @@
-# Mohamed Youssef
-### Software Engineer — Backend Systems & Full-Stack Development
+<h1 align="center">Hi, I'm Mohamed Youssef 👋</h1>
+<h3 align="center">CS @ NYIT · Software Engineer · Building with LLMs, agents, and APIs</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohamedsalahyoussef"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:m.salah.y35@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MohamedYoussef06&style=for-the-badge&color=555555" alt="Profile views"/>
+</p>
 
 ---
 
-## What I Do
+### About Me
 
-I build backend systems and full-stack applications that prioritize reliability, data integrity, and scalability. My work spans real-time data processing, workflow automation, and production-grade software with rigorous testing practices. I care about systems that fail gracefully and code that holds up under real-world constraints.
-
----
-
-## Core Competencies
-
-**Languages**
-```
-Java · Python · JavaScript · SQL · HTML/CSS
-```
-
-**Backend & Systems**
-```
-FastAPI · Flask · REST APIs · SQLAlchemy · Database Design
-System Architecture · Connection Pooling · Real-Time Data Processing
-```
-
-**Engineering Practices**
-```
-Unit Testing · Integration Testing · CI/CD · SDLC · Agile
-Object-Oriented Design · Git Workflow
-```
-
-**Tools & Platforms**
-```
-Git · GitHub · IntelliJ IDEA · VS Code · PostgreSQL
-Docker · Linux · ServiceNow
-```
+- 🎓 B.S. Computer Science, Mathematics minor at **New York Institute of Technology** (May 2028)
+- 🛠️ Junior ServiceNow Admin at NYIT, turning legacy intake forms into structured workflows for 2,000+ users
+- 👨‍🏫 Coding Instructor at Lavner IQ, teaching Python, Java, and data structures
+- 🏆 Hackathons: **Winner, Best Use of Solana** at Hackknight 2026 · **Top 30%** at HackerRank Orchestrate
+- 🔭 Currently exploring RAG, multi-agent systems, and safe LLM integration
+- 📫 Open to **Summer 2027 SWE / AI internships**
 
 ---
 
-## Pinned Highlights
+### Featured Projects
 
-**[ChatNYC](https://github.com/MohamedYoussef06)** — Distributed real-time trip planning backend
-Engineered a FastAPI service processing 8 concurrent real-time data sources using the Connection Scan Algorithm over MTA GTFS feeds. Built with graceful degradation, SQLAlchemy-backed persistence, and a prompt-injection-resistant LLM integration layer.
-
-**[Space Liberators](https://github.com/MohamedYoussef06/Space-Liberators)** — 2D real-time space shooter
-A Java-based game built on core OOP principles, featuring event-driven collision detection and mechanics optimized for a consistent 60 FPS. Focused on modular, maintainable architecture.
-
-**[PawPal+](https://github.com/MohamedYoussef06)** — Full-stack financial management system
-Python backend with a Streamlit frontend, shipped with 16/16 passing unit tests. Built end-to-end: schema design, business logic, and deployment.
-
-**[Conference Table Appointment](https://github.com/MohamedYoussef06/Conference-Table-Appointment)** — Scheduling automation utility
-JavaScript automation layer that transforms Google Sheets and Forms input into centralized calendar logic, reducing scheduling conflicts across departments.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/AmeersPersonal/finance_sub_agent_prediction-">📈 Market Moves</a></h4>
+      <p><b>Product Manager</b> · Hackknight 2026<br/><i>Winner, Best Use of Solana</i></p>
+      <p>Multi-agent market forecaster where 13 Gemini-powered trader personas vote on price moves. I built the Snowflake Cortex RAG layer and the React dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white"/>
+      </p>
+      <a href="https://finance-sub-agent-prediction.vercel.app">🔗 Live demo</a>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/MohamedYoussef06/Financial-AI-Advisor">💸 Buy or Wait?</a></h4>
+      <p><b>Full Stack Engineer</b> · HackerRank Orchestrate<br/><i>Top 30%</i></p>
+      <p>AI financial advisor that decides whether a user can afford a purchase. A deterministic 90-day forecaster does the math; LLMs handle images, messages, and explanations, with every output re-validated in code.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/MohamedYoussef06/ChatNYC">🚇 ChatNYC</a></h4>
+      <p><b>Backend Engineer</b> · DivHacks</p>
+      <p>Real-time NYC subway trip planner using a custom Connection Scan Algorithm over 8 MTA GTFS feeds, with a prompt-injection-resistant chat assistant and a fault-tolerant API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/xAI_Grok-000000?style=flat&logo=x&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Current Focus
+### Tech Stack
 
-Deepening expertise in distributed systems design and preparing for backend/infrastructure engineering roles, with an emphasis on systems that remain reliable under failure and scale.
+**Languages**<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+**Frameworks & Data**<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+
+**AI & LLMs**<br/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-555555?style=for-the-badge"/>
+
+**Tools**<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white"/>
 
 ---
 
-## Education
+### GitHub Stats
 
-**B.S. Computer Science, Mathematics Minor**
-New York Institute of Technology — Manhattan, NY · Expected May 2028
-GPA: 3.7/4.0 · Presidential Honors List · Dean's List
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedYoussef06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYoussef06&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohamedYoussef06&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
 
 ---
 
-## Connect
-
-```
-Email      m.salah.y35@gmail.com
-LinkedIn   linkedin.com/in/mohamedsalahyoussef
-```
+<p align="center"><i>Always learning, always shipping. Let's build something.</i></p>
